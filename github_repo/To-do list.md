@@ -22,7 +22,7 @@
 - ~~Write report on computational methods
 - Start learning how VMs and Linux work with docker
 
-## Uni - Personal statement due for 12th
+## Uni 
 - Finish flatland 
 - Do additional reading for flatland 
 - Write personal statement 
@@ -30,8 +30,12 @@
 - Look at UCAS to see if anything else needs to be done.
 
 ## Today:
+- Find Cornell notes book and put in bag
+- Get new CS exercise book
+- Put key info into UCAS 
+- Find green CS theory book
 - Finish reading flatland
-- Start drafting your personal statement.
+- Write first draft of personal statement.
 - Do post development testing
 - Look at the parts of evaluation in more detail to see what still needs to be done. 
 - Start working on Evaluation for NEA
