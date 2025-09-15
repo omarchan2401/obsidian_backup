@@ -1,0 +1,1 @@
+To use templates just press CTRL + P and then search for 'insert template', then select template file you want and boom, done.

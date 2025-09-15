@@ -1,0 +1,4 @@
+- Determinant rules for the matrices ( like Det(AB) = Det(A) * Det(B) ). I want to memorize them at some point 
+- Rules for modulus and argument for adding, subtracting, dividing and multiplying two complex nums, z1 and z2. 
+- Systems with 2nd ODE's, Harmonic motion + damping (end of 2nd ODE's topic in general)
+- 

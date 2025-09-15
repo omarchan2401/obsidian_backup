@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "d0d9da2463b46723",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae15a31c4b804c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd7f7a6d4b83ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-do list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To-do list"
+            }
+          },
+          {
+            "id": "e86d0e666e772d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Further Maths/Things I'm weak on.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things I'm weak on"
+            }
+          },
+          {
+            "id": "4285c74ace822236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Tweaks to make to NEA in review (from last years moderator comments).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tweaks to make to NEA in review (from last years moderator comments)"
+            }
+          },
+          {
+            "id": "7edff4468725af0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Reviewing NEA complexity/Time needed to complete NEA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time needed to complete NEA"
+            }
+          },
+          {
+            "id": "e6fec296eabcb307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Personal Statement talking points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Statement talking points"
+            }
+          },
+          {
+            "id": "59fe1e7eff435704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Personal Statement talking points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Statement talking points"
+            }
+          },
+          {
+            "id": "8f1f8bb9032deb26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Personal Statement talking points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Statement talking points"
+            }
+          },
+          {
+            "id": "bc51cf68366e3f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c56b55690fe957d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff184bd39579ce5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f84f8c3c2686a311",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "988d52b338f735b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2244ab7c38ce83da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7343a66363a0bada",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e50eb247f94bbf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8974fe964b6ee95a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "69ad81aaef13fb2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f761e363ba69842e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8633f9152d60e20c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc51cf68366e3f3b",
+  "lastOpenFiles": [
+    "Personal/Personal Statement talking points.md",
+    "Draft.md",
+    "Personal/Notes for writing Personal Statement.md",
+    "Personal/Ariana's Personal Statement.md",
+    "To-do list.md",
+    "Maths/Further Maths/Things I'm weak on.md",
+    "Computer Science/Tweaks to make to NEA in review (from last years moderator comments).md",
+    "Computer Science/Reviewing NEA complexity/Time needed to complete NEA.md",
+    "Computer Science/Theory/Prepping for lessons.md",
+    "Computer Science/Theory",
+    "Computer Science/Parts of Evaluation.md",
+    "Maths/Further Maths/Questions to ask on 11-09-2025 MC.md",
+    "Maths/Further Maths/Things I need to do a full relearn of.md",
+    "Computer Science/Reviewing NEA complexity/Main Document.md",
+    "Computer Science/Reviewing NEA complexity/Pasted image 20250908115844.png",
+    "2025-09-08.md",
+    "attachments/Mark-scheme-decomposed.pdf",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "attachments",
+    "Mark-scheme-decomposed.pdf",
+    "Guides/Guide to formatting.md",
+    "Computer Science/Reviewing NEA complexity/Pasted image 20250908121035.png",
+    "Computer Science/Reviewing NEA complexity",
+    "Computer Science/Reviewing NEA complexity/Pasted image 20250908121232.png",
+    "Guides/Guide for Templates.md",
+    "Guides",
+    "Untitled 1.md",
+    "Misc/Templates.md",
+    "Misc",
+    "Maths/Further Maths",
+    "this is a test.md",
+    "test2.md"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "733917d4fb8a1a88",
+    "type": "split",
+    "children": [
+      {
+        "id": "23d88dfd0acc66e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0a81bb9b40b6296",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ff4304ccb3e4a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8657616f45361daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45b05b16e5e45ae7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc45c5785eeb0b10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd2cc4fd42973e30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0619fd540c4534f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ce39da7395e7726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4905a42f3972a4f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfcca2df9941d5a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db0f2e0529c92e0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2674f8588efdebbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b0a81bb9b40b6296",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-09-19.md",
+    "Computer Science",
+    "Further Maths/Mr Boyle",
+    "Further Maths/Ms Gratton",
+    "Further Maths/Mr Hopkins",
+    "Further Maths/Ms Nash",
+    "Untitled 1",
+    "Further Maths"
+  ]
+}

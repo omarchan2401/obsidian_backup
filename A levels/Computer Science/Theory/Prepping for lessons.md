@@ -1,0 +1,4 @@
+- You are given two booklets, one for each paper. Bring the relevant one and keep them in good condition (probably by buying a plastic folder for them)
+- The main homework we get given is preparing for the topics covered in our lessons.
+	-Make notes
+	-Most importantly, bring questions about anything really e.g things that are unclear.
