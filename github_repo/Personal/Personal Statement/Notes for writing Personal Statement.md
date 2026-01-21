@@ -2,11 +2,13 @@
 - DO NOT USE CHAT GPT, LITERALLY WHY WOULD YOU USE IT IN A 'PERSONAL' STATEMENT YOU MELON.
 - They aren't too bothered about what information goes in which box, as long as the information is there and it makes sense.
 - Be prepared to answer questions about what you put in your personal statement. DO NOT LIE
+- When you talk about your subject, say that you are INTERESTED in it, not passionate about it.
+
 
 For question 2:
-- Don't replicate any of the information on your UCAS application. Make sure everything on there is new
-	-This includes things in school. DO NOT JUST LIST THINGS IN THE COURSE
-Instead, you can talk about how what you've learnt in lesson lead to further research.
+- Don't repeat any of the information on your UCAS application. Make sure everything on there is new
+	-This includes things in school. DO NOT JUST LIST THINGS IN THE COURSE YOU'RE DOING
+Instead, you can talk about how what you've learnt in lesson lead to further research. 
 
 For question 3:
 - Talk about work experience, Cambridge quite like it apparently

@@ -1,55 +1,56 @@
 {
   "main": {
-    "id": "d0d9da2463b46723",
+    "id": "ba15d71b5fd21a50",
     "type": "split",
     "children": [
       {
-        "id": "2c4fe509d0a6fd9f",
+        "id": "2cda6d8247087389",
         "type": "tabs",
         "children": [
           {
-            "id": "c15c30b7ca193f55",
+            "id": "63c0947ccf9def9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do list.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-do list"
+              "title": "Welcome"
             }
           },
           {
-            "id": "f38609d3242d8a3d",
+            "id": "fcdb6ea5564320de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily revision plan.md",
+                "file": "example file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily revision plan"
+              "title": "example file"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3c56b55690fe957d",
+    "id": "2cc91536bd0ffdde",
     "type": "split",
     "children": [
       {
-        "id": "ff184bd39579ce5d",
+        "id": "89709ae3ca15bee8",
         "type": "tabs",
         "children": [
           {
-            "id": "f84f8c3c2686a311",
+            "id": "6b334f9f4375b947",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +63,7 @@
             }
           },
           {
-            "id": "988d52b338f735b7",
+            "id": "3eefbab3c7122c69",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +80,7 @@
             }
           },
           {
-            "id": "2244ab7c38ce83da",
+            "id": "49ca2b49d2bc3526",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,19 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "7343a66363a0bada",
+    "id": "a23523cb8bcc86c8",
     "type": "split",
     "children": [
       {
-        "id": "8e50eb247f94bbf2",
+        "id": "0ca30a87f7f3922a",
         "type": "tabs",
         "children": [
           {
-            "id": "8974fe964b6ee95a",
+            "id": "e5722e2a5d1f3301",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "example file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,24 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for example file"
             }
           },
           {
-            "id": "69ad81aaef13fb2d",
+            "id": "5c5ed3aea0f9f4b2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "example file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from example file"
             }
           },
           {
-            "id": "f761e363ba69842e",
+            "id": "2669d2cbda859300",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,17 +152,18 @@
             }
           },
           {
-            "id": "8633f9152d60e20c",
+            "id": "00d78bd48dff39d3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "example file.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of example file"
             }
           }
         ]
@@ -171,63 +175,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c15c30b7ca193f55",
+  "active": "fcdb6ea5564320de",
   "lastOpenFiles": [
-    "Daily revision plan.md",
-    "To-do list.md",
-    "Misc/Notes from Ms. Grattons Husband.md",
-    "Circular-Motion-multiple-choice-solutions-TES-bennyjohn5.pdf",
-    "Maths/Further Maths/Further past papers/Remix of December Mech & Stats mock.pdf",
-    "Maths/TMUA/Feed Forward on 2021 papers.md",
-    "Maths/Single Maths/Single past papers",
-    "Maths/Further Maths/Further past papers",
-    "Computer Science/Past Papers",
-    "Maths/Further Maths/Past Papers/3. Y5423 QP final.pdf",
-    "Untitled.md",
-    "Maths/Further Maths/Past Papers",
-    "Maths/TMUA/General notes.md",
-    "Maths/TMUA/Feed forward on 2023 papers.md",
-    "Maths/Further Maths/Things I'm weak on.md",
-    "Maths/Single Maths/Topics I want to visit.md",
-    "Maths/Single Maths/Derivative Special results in LaTeX.md",
-    "Computer Science/Reviewing NEA complexity/Tweaks to make to NEA in review (from last years moderator comments).md",
-    "Computer Science/Reviewing NEA complexity/Parts of Evaluation.md",
-    "Mock exam information.md",
-    "Timings for practice exam.md",
-    "words for people.md",
-    "Maths/LaTeX examples.md",
-    "attachments/Pasted image 20251202115458.png",
-    "attachments/Pasted image 20251201102223.png",
-    "attachments/Pasted image 20251201102150.png",
-    "attachments/Pasted image 20251201102132.png",
-    "Maths/TMUA",
-    "Computer Science/Theory/Topic list for December Mocks.md",
-    "attachments/Pasted image 20251120114209.png",
-    "Questions I got wrong.md",
-    "Personal/Personal Statement/Draft 4.md",
-    "Personal/Personal Statement/Notes for writing Personal Statement.md",
-    "Personal/Personal Statement/Things to do for Personal Statement.md",
-    "Personal/University Open Day dates.md",
-    "Personal/Personal Statement/Personal Statement talking points.md",
-    "Personal/Personal Statement/Draft.md",
-    "Personal/Personal Statement/Draft 3.md",
-    "Personal/Personal Statement",
-    "attachments/Pasted image 20250917232609.png",
-    "attachments/Pasted image 20250917232512.png",
-    "Computer Science/Theory",
-    "Computer Science/Reviewing NEA complexity/Pasted image 20250908115844.png",
-    "Untitled.canvas",
-    "Computer Science/Reviewing NEA complexity/Pasted image 20250908121035.png",
-    "Computer Science/Reviewing NEA complexity/Pasted image 20250908121232.png"
+    "example file.md",
+    "Welcome.md"
   ]
 }

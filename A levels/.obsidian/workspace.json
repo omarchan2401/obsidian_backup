@@ -1,38 +1,20 @@
 {
   "main": {
-    "id": "d0d9da2463b46723",
+    "id": "1d96a55a7fcca780",
     "type": "split",
     "children": [
       {
-        "id": "2c4fe509d0a6fd9f",
+        "id": "98095e2ef9628af4",
         "type": "tabs",
         "children": [
           {
-            "id": "c15c30b7ca193f55",
+            "id": "3102fda283ae8f4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-do list.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To-do list"
-            }
-          },
-          {
-            "id": "f38609d3242d8a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily revision plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily revision plan"
+              "title": "New tab"
             }
           }
         ]
@@ -41,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c56b55690fe957d",
+    "id": "fbed0e1f26d20dca",
     "type": "split",
     "children": [
       {
-        "id": "ff184bd39579ce5d",
+        "id": "b674ca7580e641b0",
         "type": "tabs",
         "children": [
           {
-            "id": "f84f8c3c2686a311",
+            "id": "9430505f796f79cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +44,7 @@
             }
           },
           {
-            "id": "988d52b338f735b7",
+            "id": "6b72e5d7a9bf45e1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +61,7 @@
             }
           },
           {
-            "id": "2244ab7c38ce83da",
+            "id": "fc5d9e34fc7771ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "7343a66363a0bada",
+    "id": "086a8abd9c78b995",
     "type": "split",
     "children": [
       {
-        "id": "8e50eb247f94bbf2",
+        "id": "d7e79d772a7d1437",
         "type": "tabs",
         "children": [
           {
-            "id": "8974fe964b6ee95a",
+            "id": "8fd2af8740c9394a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -121,7 +103,7 @@
             }
           },
           {
-            "id": "69ad81aaef13fb2d",
+            "id": "2141d63368a67313",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -134,7 +116,7 @@
             }
           },
           {
-            "id": "f761e363ba69842e",
+            "id": "b0bf000e2d467bd7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +131,7 @@
             }
           },
           {
-            "id": "8633f9152d60e20c",
+            "id": "cbee5e055d3bc57f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -171,63 +153,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "c15c30b7ca193f55",
-  "lastOpenFiles": [
-    "Daily revision plan.md",
-    "To-do list.md",
-    "Misc/Notes from Ms. Grattons Husband.md",
-    "Circular-Motion-multiple-choice-solutions-TES-bennyjohn5.pdf",
-    "Maths/Further Maths/Further past papers/Remix of December Mech & Stats mock.pdf",
-    "Maths/TMUA/Feed Forward on 2021 papers.md",
-    "Maths/Single Maths/Single past papers",
-    "Maths/Further Maths/Further past papers",
-    "Computer Science/Past Papers",
-    "Maths/Further Maths/Past Papers/3. Y5423 QP final.pdf",
-    "Untitled.md",
-    "Maths/Further Maths/Past Papers",
-    "Maths/TMUA/General notes.md",
-    "Maths/TMUA/Feed forward on 2023 papers.md",
-    "Maths/Further Maths/Things I'm weak on.md",
-    "Maths/Single Maths/Topics I want to visit.md",
-    "Maths/Single Maths/Derivative Special results in LaTeX.md",
-    "Computer Science/Reviewing NEA complexity/Tweaks to make to NEA in review (from last years moderator comments).md",
-    "Computer Science/Reviewing NEA complexity/Parts of Evaluation.md",
-    "Mock exam information.md",
-    "Timings for practice exam.md",
-    "words for people.md",
-    "Maths/LaTeX examples.md",
-    "attachments/Pasted image 20251202115458.png",
-    "attachments/Pasted image 20251201102223.png",
-    "attachments/Pasted image 20251201102150.png",
-    "attachments/Pasted image 20251201102132.png",
-    "Maths/TMUA",
-    "Computer Science/Theory/Topic list for December Mocks.md",
-    "attachments/Pasted image 20251120114209.png",
-    "Questions I got wrong.md",
-    "Personal/Personal Statement/Draft 4.md",
-    "Personal/Personal Statement/Notes for writing Personal Statement.md",
-    "Personal/Personal Statement/Things to do for Personal Statement.md",
-    "Personal/University Open Day dates.md",
-    "Personal/Personal Statement/Personal Statement talking points.md",
-    "Personal/Personal Statement/Draft.md",
-    "Personal/Personal Statement/Draft 3.md",
-    "Personal/Personal Statement",
-    "attachments/Pasted image 20250917232609.png",
-    "attachments/Pasted image 20250917232512.png",
-    "Computer Science/Theory",
-    "Computer Science/Reviewing NEA complexity/Pasted image 20250908115844.png",
-    "Untitled.canvas",
-    "Computer Science/Reviewing NEA complexity/Pasted image 20250908121035.png",
-    "Computer Science/Reviewing NEA complexity/Pasted image 20250908121232.png"
-  ]
+  "active": "3102fda283ae8f4b",
+  "lastOpenFiles": []
 }
