@@ -34,8 +34,21 @@
               "icon": "lucide-file",
               "title": "Daily revision plan"
             }
+          },
+          {
+            "id": "a87cf5a32dba2598",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,13 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c15c30b7ca193f55",
+  "active": "a87cf5a32dba2598",
   "lastOpenFiles": [
-    "Daily revision plan.md",
+    "Maths/Further Maths/Further past papers/Remix of December Mech & Stats mock.pdf",
+    "Maths/Further Maths/Completed AS papers (Mech).md",
     "To-do list.md",
+    "13F - Correlation and spearmans rank 20.01.26 1.pptx",
+    "13F - Correlation and spearmans rank 20.01.26.pptx",
+    "Daily revision plan.md",
     "Misc/Notes from Ms. Grattons Husband.md",
     "Circular-Motion-multiple-choice-solutions-TES-bennyjohn5.pdf",
-    "Maths/Further Maths/Further past papers/Remix of December Mech & Stats mock.pdf",
     "Maths/TMUA/Feed Forward on 2021 papers.md",
     "Maths/Single Maths/Single past papers",
     "Maths/Further Maths/Further past papers",
@@ -220,11 +236,8 @@
     "Personal/University Open Day dates.md",
     "Personal/Personal Statement/Personal Statement talking points.md",
     "Personal/Personal Statement/Draft.md",
-    "Personal/Personal Statement/Draft 3.md",
-    "Personal/Personal Statement",
     "attachments/Pasted image 20250917232609.png",
     "attachments/Pasted image 20250917232512.png",
-    "Computer Science/Theory",
     "Computer Science/Reviewing NEA complexity/Pasted image 20250908115844.png",
     "Untitled.canvas",
     "Computer Science/Reviewing NEA complexity/Pasted image 20250908121035.png",

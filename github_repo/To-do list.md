@@ -26,6 +26,7 @@
 - Revise for CM quiz on Friday
 - CM homework question due 19th
 - Weekly maths private study due
+- Homework questions on end of Ms Lewis slides from Tuesday (on outlook)
 
 
 
