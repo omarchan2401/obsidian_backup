@@ -34,21 +34,8 @@
               "icon": "lucide-file",
               "title": "Daily revision plan"
             }
-          },
-          {
-            "id": "a87cf5a32dba2598",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,14 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a87cf5a32dba2598",
+  "active": "c15c30b7ca193f55",
   "lastOpenFiles": [
+    "13F - Correlation and spearmans rank 20.01.26 (1) 1.pptx",
+    "13F - Correlation and spearmans rank 20.01.26 (1).pptx",
+    "Daily revision plan.md",
     "Maths/Further Maths/Further past papers/Remix of December Mech & Stats mock.pdf",
     "Maths/Further Maths/Completed AS papers (Mech).md",
     "To-do list.md",
     "13F - Correlation and spearmans rank 20.01.26 1.pptx",
     "13F - Correlation and spearmans rank 20.01.26.pptx",
-    "Daily revision plan.md",
     "Misc/Notes from Ms. Grattons Husband.md",
     "Circular-Motion-multiple-choice-solutions-TES-bennyjohn5.pdf",
     "Maths/TMUA/Feed Forward on 2021 papers.md",
@@ -226,7 +215,6 @@
     "attachments/Pasted image 20251201102223.png",
     "attachments/Pasted image 20251201102150.png",
     "attachments/Pasted image 20251201102132.png",
-    "Maths/TMUA",
     "Computer Science/Theory/Topic list for December Mocks.md",
     "attachments/Pasted image 20251120114209.png",
     "Questions I got wrong.md",
