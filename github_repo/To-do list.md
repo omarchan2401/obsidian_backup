@@ -26,6 +26,7 @@
 	- Also for Gratton - Using further maths textbook, look at and work through example 11.4, and the next one starting on page 240. Keep going and complete questions 3,4 & 10.
 	- ~~Also also for Gratton - Introduce yourself to oblique collisions.~~
 	- Complete 1.5 hours of work on page 249 of fm mech textbook for gratton, and try to get that question in class again.
+	- Look at inverse trig resources sent by Mr Hopkins
 	- Complete the further maths mech&stats mock again in timed conditions [[Remix of December Mech & Stats mock.pdf]]
 
 - CM homework question due 19th
