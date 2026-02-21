@@ -33,7 +33,13 @@
 - Weekly maths private study due
 - ~~Writing homework on PowerPoints 25 & 26 compilation, linkers, loaders, libraries due 2nd Feb.
 - Stack coding & flowcharts due by the 6th Feb.
-
+## Hadley's catch-up reccommendations:
+- Self teach all of 1.2.1 and 1.2.2 by ppts and save my exams
+- Watch TL maths videos on hyperbolics, apparently expect a lot of e
+- Apparently lock in on further stats most 
+- For mech look at oblique impacts (f=ma, cons of momentum with vectors?)and hookes law
+- 
+- 
 
 
 ## Don't know what to do?:
