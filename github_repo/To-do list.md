@@ -29,18 +29,17 @@
 	- Look at inverse trig resources sent by Mr Hopkins
 	- Complete intro to Hooke's law
 	- Complete the further maths mech&stats mock again in timed conditions [[Remix of December Mech & Stats mock.pdf]]
+	- Get gratton to explain how the second part of the first question works [[circular_motion_revision_pack.pdf]]
 
 - Weekly maths private study due
 - ~~Writing homework on PowerPoints 25 & 26 compilation, linkers, loaders, libraries due 2nd Feb.
 - Stack coding & flowcharts due by the 6th Feb.
-## Hadley's catch-up reccommendations:
+## Hadley's catch-up recommendations:
 - Self teach all of 1.2.1 and 1.2.2 by ppts and save my exams
 - Watch TL maths videos on hyperbolics, apparently expect a lot of e
 - Apparently lock in on further stats most 
 - For mech look at oblique impacts (f=ma, cons of momentum with vectors?)and hookes law
 - 
-- 
-
 
 ## Don't know what to do?:
 - Complete and mark a Single or Further maths paper
