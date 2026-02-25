@@ -22,11 +22,10 @@
  - Complete backlog work on outlook(complete and bring questions to Lewis if needed).
 	- ~~Bowen - PowerPoints 12-20 applications generation
 	- Lewis - ~~PPT on Spearman's rank & correlation &~~ PPT on Chi squared contingency tables.
-	- Brush up on 2D COM (Tuesday's lesson covered this for Gratton)
 	- Also for Gratton - Using further maths textbook, look at and work through example 11.4, and the next one starting on page 240. Keep going and complete questions 3,4 & 10.
-	- ~~Also also for Gratton - Introduce yourself to oblique collisions.~~
+	- Gratton - finish oblique collisions.
+	- Bowen - Learn assembly/ little man computer https://www.youtube.com/watch?v=9AWN_ntHfPk
 	- Complete 1.5 hours of work on page 249 of fm mech textbook for Gratton, and try to get that question in class again.
-	- Look at inverse trig resources sent by Mr Hopkins
 	- Complete intro to Hooke's law
 	- Complete the further maths mech&stats mock again in timed conditions [[Remix of December Mech & Stats mock.pdf]]
 	- Get gratton to explain how the second part of the first question works [[circular_motion_revision_pack.pdf]]
