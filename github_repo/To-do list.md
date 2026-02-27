@@ -19,19 +19,17 @@
 
 
 # Specific tasks:
- - Complete backlog work on outlook(complete and bring questions to Lewis if needed).
-	- ~~Bowen - PowerPoints 12-20 applications generation
-	- Lewis - ~~PPT on Spearman's rank & correlation &~~ PPT on Chi squared contingency tables.
-	- Also for Gratton - Using further maths textbook, look at and work through example 11.4, and the next one starting on page 240. Keep going and complete questions 3,4 & 10.
-	- Gratton - finish oblique collisions.
-	- Bowen - Learn assembly/ little man computer https://www.youtube.com/watch?v=9AWN_ntHfPk
-	- Complete 1.5 hours of work on page 249 of fm mech textbook for Gratton, and try to get that question in class again.
-	- Complete intro to Hooke's law
-	- Complete the further maths mech&stats mock again in timed conditions [[Remix of December Mech & Stats mock.pdf]]
-	- Get gratton to explain how the second part of the first question works [[circular_motion_revision_pack.pdf]]
-
+ 
+- Bowen - PowerPoints 30-50
+- Gratton - finish oblique collisions.
+- Bowen - Learn assembly/ little man computer https://www.youtube.com/watch?v=9AWN_ntHfPk
+- Hopkins - go through hyperbolics
+- Gratton - practice hard CM Q's
+- Lewis - practice Spearman's rank, combinatorics, PMCC & contingency table hypothesis tests with ratios
+- Complete intro to Hooke's law
+- Complete the further maths mech&stats mock again in timed conditions [[Remix of December Mech & Stats mock.pdf]]
+- Get gratton to explain how the second part of the first question works [[circular_motion_revision_pack.pdf]]
 - Weekly maths private study due
-- ~~Writing homework on PowerPoints 25 & 26 compilation, linkers, loaders, libraries due 2nd Feb.
 - Stack coding & flowcharts due by the 6th Feb.
 ## Hadley's catch-up recommendations:
 - Self teach all of 1.2.1 and 1.2.2 by ppts and save my exams
