@@ -29,6 +29,7 @@
 - Complete intro to Hooke's law
 - Complete the further maths mech&stats mock again in timed conditions [[Remix of December Mech & Stats mock.pdf]]
 - Get gratton to explain how the second part of the first question works [[circular_motion_revision_pack.pdf]]
+- Get lewis to explain how to solve this hyperbolic question - [[Hyperbolic diff. questions (ask lewis)]]
 - Weekly maths private study due
 - Stack coding & flowcharts due by the 6th Feb.
 ## Hadley's catch-up recommendations:
