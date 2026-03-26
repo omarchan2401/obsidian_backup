@@ -14,5 +14,10 @@ From this paper , go over:
 - Contingency tables 
 - Continuous random variables
 
+# 2019 Pure Core 1
+![[Pasted image 20260325234451.png]]
+What is happening
+![[Pasted image 20260325234803.png]]
+Didn't understand the rearrangement needed for the first part of the second question
 
 

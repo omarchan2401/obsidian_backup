@@ -67,16 +67,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student Finance.md",
+                "file": "Questions to bring to lewis 23-03-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Student Finance"
+              "title": "Questions to bring to lewis 23-03-26"
+            }
+          },
+          {
+            "id": "0093ae5b55eda8a9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -222,10 +234,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2392e924851c059d",
+  "active": "0093ae5b55eda8a9",
   "lastOpenFiles": [
-    "Questions to bring to lewis 23-03-26.md",
+    "attachments/Pasted image 20260325234803.png",
+    "attachments/Pasted image 20260325234451.png",
+    "Maths/Further Maths/Completed AS papers (Mech).md",
     "Student Finance.md",
+    "Questions to bring to lewis 23-03-26.md",
     "attachments/Pasted image 20260323163336.png",
     "attachments/Pasted image 20260323163234.png",
     "attachments/Pasted image 20260323163011.png",
@@ -241,7 +256,6 @@
     "[circular_motion_revision_pack.pdf.md",
     "13F - Correlation and spearmans rank 20.01.26 (1) 1.pptx",
     "13F - Correlation and spearmans rank 20.01.26 (1).pptx",
-    "Maths/Further Maths/Completed AS papers (Mech).md",
     "13F - Correlation and spearmans rank 20.01.26 1.pptx",
     "13F - Correlation and spearmans rank 20.01.26.pptx",
     "Misc/Notes from Ms. Grattons Husband.md",
@@ -264,12 +278,10 @@
     "attachments/Pasted image 20251202115458.png",
     "attachments/Pasted image 20251201102223.png",
     "attachments/Pasted image 20251201102150.png",
-    "attachments/Pasted image 20251201102132.png",
     "Computer Science/Theory/Topic list for December Mocks.md",
     "Questions I got wrong.md",
     "Personal/Personal Statement/Draft 4.md",
     "Personal/Personal Statement/Notes for writing Personal Statement.md",
-    "Personal/Personal Statement/Things to do for Personal Statement.md",
     "Untitled.canvas"
   ]
 }
