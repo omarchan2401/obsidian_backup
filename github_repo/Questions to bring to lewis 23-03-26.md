@@ -33,3 +33,7 @@ What fast way is there to do part b)
 
 ![[Pasted image 20260327153237.png]]
 Used sin instead of sec, try again
+
+## 2019 Further Mechanics
+![[Pasted image 20260403185502.png]]
+Retry at some point, accidentally started P at the top of the circle
