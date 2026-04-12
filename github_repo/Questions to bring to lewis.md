@@ -37,3 +37,28 @@ Used sin instead of sec, try again
 ## 2019 Further Mechanics
 ![[Pasted image 20260403185502.png]]
 Retry at some point, accidentally started P at the top of the circle
+
+# 2024
+## 2024 Further pure core 1
+![[Pasted image 20260411132132.png]]
+Just didn't get it, not sure why. Give it a retry and then bring to her.
+# Practice Set 3
+## Pure core 1
+![[Pasted image 20260411132405.png]]
+I did partial fract., and knew it was a MOD Q, but i just don't see it 
+## Pure core 2
+![[Pasted image 20260411132509.png]]
+What does it mean draw a shape
+![[Pasted image 20260411132547.png]]
+Genuinely couldn't start this question at all
+## Stats
+![[Pasted image 20260411152801.png]]
+Adding normal distributions means and variances
+![[Pasted image 20260411152830.png]]
+part b of this fmu
+![[Pasted image 20260411152905.png]]
+have no clue how to work through this one 
+![[Pasted image 20260411152928.png]]
+Chi squared goodness of fit test
+![[Pasted image 20260411152953.png]]
+hard CRV question

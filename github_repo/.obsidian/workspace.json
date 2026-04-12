@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions to bring to lewis 23-03-26.md",
+                "file": "Questions to bring to lewis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions to bring to lewis 23-03-26"
+              "title": "Questions to bring to lewis"
             }
           },
           {
@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Past Papers/2025 Series.md",
+                "file": "Questions to bring to lewis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 Series"
+              "title": "Questions to bring to lewis"
             }
           }
         ],
@@ -238,22 +238,24 @@
   },
   "active": "5362f43dce0964f9",
   "lastOpenFiles": [
-    "Questions to bring to lewis 23-03-26.md",
+    "attachments/Pasted image 20260411152953.png",
+    "attachments/Pasted image 20260411152928.png",
+    "attachments/Pasted image 20260411152905.png",
+    "attachments/Pasted image 20260411152830.png",
+    "attachments/Pasted image 20260411152801.png",
+    "attachments/Pasted image 20260411132547.png",
+    "attachments/Pasted image 20260411132509.png",
+    "attachments/Pasted image 20260411132405.png",
+    "attachments/Pasted image 20260411132132.png",
+    "Maths/Further Maths/Further materials/circular_motion_revision_pack.pdf",
+    "Maths/Further Maths/Further materials/Remix of December Mech & Stats mock.pdf",
+    "Maths/Further Maths/Completed AS papers (Mech).md",
+    "Maths/Further Maths/Things I'm weak on.md",
     "Computer Science/Past Papers/2025 Series.md",
+    "Questions to bring to lewis.md",
     "attachments/Pasted image 20260403185502.png",
     "attachments/Pasted image 20260327153237.png",
-    "attachments/Pasted image 20260327153157.png",
-    "attachments/Pasted image 20260327153130.png",
-    "attachments/Pasted image 20260327153037.png",
-    "attachments/Pasted image 20260325234803.png",
-    "attachments/Pasted image 20260325234451.png",
-    "Maths/Further Maths/Completed AS papers (Mech).md",
     "Student Finance.md",
-    "attachments/Pasted image 20260323163336.png",
-    "attachments/Pasted image 20260323163234.png",
-    "attachments/Pasted image 20260323163011.png",
-    "Maths/Further Maths/Further materials/Remix of December Mech & Stats mock.pdf",
-    "Maths/Further Maths/Further materials/circular_motion_revision_pack.pdf",
     "Maths/Further Maths/Further materials/Hyperbolic diff. questions (ask lewis).md",
     "To-do list.md",
     "Notes.md",
@@ -271,7 +273,6 @@
     "Computer Science/Past Papers",
     "Maths/TMUA/General notes.md",
     "Maths/TMUA/Feed forward on 2023 papers.md",
-    "Maths/Further Maths/Things I'm weak on.md",
     "Maths/Single Maths/Topics I want to visit.md",
     "Maths/Single Maths/Derivative Special results in LaTeX.md",
     "Computer Science/Reviewing NEA complexity/Tweaks to make to NEA in review (from last years moderator comments).md",
@@ -283,7 +284,6 @@
     "Computer Science/Theory/Topic list for December Mocks.md",
     "Questions I got wrong.md",
     "Personal/Personal Statement/Draft 4.md",
-    "Personal/Personal Statement/Notes for writing Personal Statement.md",
     "Untitled.canvas"
   ]
 }
