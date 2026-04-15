@@ -10,7 +10,7 @@
 - Multicore CPUs
 -  ~~Binary subtraction in floating point
 - ~~Bitmasks
-- LMC Assembly
+-  ~~**LMC Assembly
 - VMs, Virtual storage, thin and thick clients?
 - High and low level programming languages
 - ~~Logical circuits, half adders & full adders
