@@ -52,8 +52,8 @@ What does it mean draw a shape
 ![[Pasted image 20260411132547.png]]
 Genuinely couldn't start this question at all
 ## Stats
-![[Pasted image 20260411152801.png]]
-Adding normal distributions means and variances
+~~![[Pasted image 20260411152801.png]]
+Adding normal distributions means and variances~~
 ![[Pasted image 20260411152830.png]]
 part b of this fmu
 ![[Pasted image 20260411152905.png]]
