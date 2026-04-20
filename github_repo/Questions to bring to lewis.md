@@ -38,6 +38,14 @@ Used sin instead of sec, try again
 ![[Pasted image 20260403185502.png]]
 Retry at some point, accidentally started P at the top of the circle
 
+# 2020
+## Statistics 
+![[Pasted image 20260417113951.png]]
+It's a discrete uniform distribution, but doesn't start at 1?
+![[Pasted image 20260417121114.png]]
+Get Ms. Lewis to explain how the degrees of freedom work for this question
+![[Pasted image 20260417121206.png]]
+Only missed part c, I got the right conclusion but i want her to take a look at my reasoning
 # 2024
 ## 2024 Further pure core 1
 ![[Pasted image 20260411132132.png]]
