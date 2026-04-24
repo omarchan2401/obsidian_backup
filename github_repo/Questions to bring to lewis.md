@@ -46,6 +46,20 @@ It's a discrete uniform distribution, but doesn't start at 1?
 Get Ms. Lewis to explain how the degrees of freedom work for this question
 ![[Pasted image 20260417121206.png]]
 Only missed part c, I got the right conclusion but i want her to take a look at my reasoning
+# 2021
+## Further Stats
+![[Pasted image 20260422162238.png]]
+Part B specifically. I just realised that I completely missed all of the lessons on confidence intervals. But all of 4 was pretty poorly done.
+![[Pasted image 20260422162431.png]]
+All of question 6 was pretty difficult. I know this is a chi squared goodness of fit test, but how do i determine the degrees of freedom for the sample?
+![[Pasted image 20260422162616.png]]
+This one is to do with all of the wilcoxon tests, which I also did not learn correctly in the first place.
+
+Key takeaways:
+- Relearn confidence intervals
+- Relearn chi squared goodness of fit (including hypotheses)
+- Learn ALL 3 wilcoxon tests
+
 # 2024
 ## 2024 Further pure core 1
 ![[Pasted image 20260411132132.png]]
