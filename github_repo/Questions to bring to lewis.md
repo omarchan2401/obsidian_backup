@@ -58,7 +58,7 @@ This one is to do with all of the wilcoxon tests, which I also did not learn cor
 Key takeaways:
 - Relearn confidence intervals
 - Relearn chi squared goodness of fit (including hypotheses)
-- Learn ALL 3 wilcoxon tests
+- Learn ALL 3 non-parametric tests
 
 # 2024
 ## 2024 Further pure core 1

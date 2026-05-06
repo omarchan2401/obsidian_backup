@@ -1,0 +1,6 @@
+- Methods of addressing memory  COMPLETE
+- ALL of networking and web tech
+- Assembly again
+- Hashing in encryption
+- Inserting and deleting cells in SQL
+- Flashcards for stages of compilation
