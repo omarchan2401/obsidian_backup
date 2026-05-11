@@ -47,7 +47,11 @@ Get Ms. Lewis to explain how the degrees of freedom work for this question
 ![[Pasted image 20260417121206.png]]
 Only missed part c, I got the right conclusion but i want her to take a look at my reasoning
 ## Pure core 1
+![[Pasted image 20260511093004.png]]
+I'm not sure where i went wrong with this one, give it a retry and see if the root 2 is still there by the end
 ![[Pasted image 20260509220803.png]]What does part d mean.
+![[Pasted image 20260511093111.png]]
+I'm putting this question here because it's asking me to do some weird stuff 
 # 2021
 ## Further Stats
 ![[Pasted image 20260422162238.png]]
