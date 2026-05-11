@@ -46,6 +46,8 @@ It's a discrete uniform distribution, but doesn't start at 1?
 Get Ms. Lewis to explain how the degrees of freedom work for this question
 ![[Pasted image 20260417121206.png]]
 Only missed part c, I got the right conclusion but i want her to take a look at my reasoning
+## Pure core 1
+![[Pasted image 20260509220803.png]]What does part d mean.
 # 2021
 ## Further Stats
 ![[Pasted image 20260422162238.png]]

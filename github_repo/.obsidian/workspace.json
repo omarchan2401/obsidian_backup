@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/List of things to look @.md",
+                "file": "Questions to bring to lewis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of things to look @"
+              "title": "Questions to bring to lewis"
             }
           }
         ],
@@ -250,9 +250,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f84f8c3c2686a311",
+  "active": "014fb78bc825bf2b",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260509220803.png",
+    "Daily revision plan.md",
     "Questions to bring to lewis.md",
+    "Notes.md",
+    "Maths/Further Maths/Completed AS papers (Mech).md",
     "Computer Science/List of things to look @.md",
     "attachments/Pasted image 20260422162616.png",
     "attachments/Pasted image 20260422162431.png",
@@ -270,10 +274,7 @@
     "attachments/Pasted image 20260411152830.png",
     "Maths/Further Maths/Further materials/circular_motion_revision_pack.pdf",
     "Maths/Further Maths/Further materials/Remix of December Mech & Stats mock.pdf",
-    "Maths/Further Maths/Completed AS papers (Mech).md",
     "Maths/Further Maths/Further materials/Hyperbolic diff. questions (ask lewis).md",
-    "Notes.md",
-    "Daily revision plan.md",
     "[circular_motion_revision_pack.pdf.md",
     "13F - Correlation and spearmans rank 20.01.26 (1) 1.pptx",
     "13F - Correlation and spearmans rank 20.01.26 (1).pptx",
@@ -297,7 +298,6 @@
     "Maths/LaTeX examples.md",
     "Computer Science/Theory/Topic list for December Mocks.md",
     "Questions I got wrong.md",
-    "Personal/Personal Statement/Draft 4.md",
     "Untitled.canvas"
   ]
 }
