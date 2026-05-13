@@ -52,6 +52,9 @@ I'm not sure where i went wrong with this one, give it a retry and see if the ro
 ![[Pasted image 20260509220803.png]]What does part d mean.
 ![[Pasted image 20260511093111.png]]
 I'm putting this question here because it's asking me to do some weird stuff 
+## Pure Core 2
+![[Pasted image 20260513132123.png]]
+have no clue what part c is talking about :(
 # 2021
 ## Further Stats
 ![[Pasted image 20260422162238.png]]
@@ -65,6 +68,9 @@ Key takeaways:
 - Relearn confidence intervals
 - Relearn chi squared goodness of fit (including hypotheses)
 - Learn ALL 3 non-parametric tests
+
+# 2022
+## Pure Core 2
 
 # 2024
 ## 2024 Further pure core 1
