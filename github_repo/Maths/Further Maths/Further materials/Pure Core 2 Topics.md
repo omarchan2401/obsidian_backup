@@ -1,0 +1,9 @@
+- Polar Coords (including integration & properties)
+- Series 
+- Limits of functions 
+- De moivres (inc expansions of z = C + iS)
+- Complex loci
+- Nth roots of unity 
+- Partial fractions 
+- Integrating inverse trig
+- Proof by induction (including derivatives & inequality)
