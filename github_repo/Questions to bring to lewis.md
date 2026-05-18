@@ -96,3 +96,5 @@ have no clue how to work through this one
 Chi squared goodness of fit test
 ![[Pasted image 20260411152953.png]]
 hard CRV question
+# General
+![[Pasted image 20260516131508.png]]

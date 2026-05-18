@@ -7,3 +7,6 @@
 - Partial fractions 
 - Integrating inverse trig
 - Proof by induction (including derivatives & inequality)
+
+## From Lewis:
+![[Pasted image 20260516111922.png]]
