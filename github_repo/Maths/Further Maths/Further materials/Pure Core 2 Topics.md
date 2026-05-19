@@ -1,4 +1,4 @@
-- Polar Coords (including integration & properties)
+- Polar Coords (including integration & properties) - Struggling to see ways through converting between cartesian and polar equations
 - Series 
 - Limits of functions 
 - De moivres (inc expansions of z = C + iS)

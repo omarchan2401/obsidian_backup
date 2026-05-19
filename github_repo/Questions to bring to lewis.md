@@ -97,4 +97,6 @@ Chi squared goodness of fit test
 ![[Pasted image 20260411152953.png]]
 hard CRV question
 # General
-![[Pasted image 20260516131508.png]]
+![[Pasted image 20260516131508.png]]https://alevelmathsrevision.com/pdf-viewer/?file=/downloads/questions-by-category/further-maths/pure-core/y1-pure-proof-by-induction-inductive-sequences-exam-questions.pdf&qms=true 
+
+^ is this even in the spec, because i have literally never seen it in my life
