@@ -7,7 +7,7 @@ Made 13/11/2025
 - modelling exponentials, and the 2 forms they can take?
 - Implicit calculus
 - Harmonic form
-- Newton Raphson
+- Newton Raphson 
 - Convergent geometric series
 - Modulus graphs
 - Domains & ranges
